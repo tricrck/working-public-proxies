@@ -159,7 +159,8 @@ def generate_readme():
 
     readme_content = f"""# 🌍 Proxy Checker - Country Rankings
 
-![Last Updated](https://img.shields.io/badge/Updated-{timestamp}-success)
+badge_timestamp = timestamp.replace(' ', '%20').replace(':', '%3A')
+![Last Updated](https://img.shields.io/badge/Updated-2026-05-07%2014%3A30%3A00%20UTC-success)
 ![Total Proxies Checked](https://img.shields.io/badge/Checked-{checked_proxies}-blue)
 ![Working Proxies](https://img.shields.io/badge/Working-{working_proxies}-green)
 ![Countries](https://img.shields.io/badge/Countries-{len(active_countries)}-orange)
