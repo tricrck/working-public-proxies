@@ -1,7 +1,7 @@
 # 🌍 Proxy Checker - Country Rankings
 
 ![Total Proxies Checked](https://img.shields.io/badge/Checked-300-blue)
-![Working Proxies](https://img.shields.io/badge/Working-20-green)
+![Working Proxies](https://img.shields.io/badge/Working-17-green)
 ![Countries](https://img.shields.io/badge/Countries-12-orange)
 
 ## 📊 Statistics
@@ -9,27 +9,27 @@
 | Metric | Value |
 |-------|-------|
 | Total Proxies Checked | 300 |
-| Working Proxies | 20 |
-| Failed/Offline Proxies | 280 |
+| Working Proxies | 17 |
+| Failed/Offline Proxies | 283 |
 | Active Countries | 12 |
-| Success Rate | 6.67% |
+| Success Rate | 5.67% |
 
 ## 🏆 Country Rankings (by Working Proxies)
 
 | Rank | Country | Working | Checked | Success Rate |
 |------|---------|---------|---------|--------------|
-| 1 | ID | 4 | 26 | 15.4% |
-| 2 | DE | 2 | 11 | 18.2% |
-| 3 | US | 2 | 70 | 2.9% |
-| 4 | MX | 2 | 4 | 50.0% |
-| 5 | SG | 2 | 16 | 12.5% |
-| 6 | TH | 2 | 5 | 40.0% |
-| 7 | JP | 1 | 7 | 14.3% |
-| 8 | RU | 1 | 14 | 7.1% |
-| 9 | GB | 1 | 6 | 16.7% |
-| 10 | IN | 1 | 9 | 11.1% |
-| 11 | CY | 1 | 1 | 100.0% |
-| 12 | BD | 1 | 3 | 33.3% |
+| 1 | ID | 3 | 27 | 11.1% |
+| 2 | IN | 3 | 16 | 18.8% |
+| 3 | US | 2 | 38 | 5.3% |
+| 4 | GB | 1 | 3 | 33.3% |
+| 5 | CZ | 1 | 4 | 25.0% |
+| 6 | RU | 1 | 12 | 8.3% |
+| 7 | IT | 1 | 2 | 50.0% |
+| 8 | ES | 1 | 2 | 50.0% |
+| 9 | EC | 1 | 4 | 25.0% |
+| 10 | UZ | 1 | 1 | 100.0% |
+| 11 | PH | 1 | 5 | 20.0% |
+| 12 | GT | 1 | 1 | 100.0% |
 
 ## 📋 Working Proxies by Country
 
@@ -37,85 +37,82 @@
 <summary>Click to expand all countries</summary>
 
 
-### ID (4 working proxies)
+### ID (3 working proxies)
 
 | Proxy | Response Time | Anonymity |
 |-------|---------------|-----------|
-| `180.211.93.91:8080` | 7.40s | anonymous |
-| `165.101.230.77:8080` | 8.08s | transparent |
-| `103.188.169.170:8080` | 10.15s | anonymous |
-| `103.61.16.92:8080` | 10.35s | transparent |
+| `202.58.77.194:8031` | 5.02s | transparent |
+| `43.133.128.153:16012` | 6.40s | elite proxy |
+| `103.172.71.113:1111` | 7.44s | transparent |
 
-### DE (2 working proxies)
+### IN (3 working proxies)
 
 | Proxy | Response Time | Anonymity |
 |-------|---------------|-----------|
-| `159.195.49.27:8888` | 5.05s | elite proxy |
-| `152.53.20.190:20000` | 6.41s | elite proxy |
+| `164.52.216.68:8080` | 2.93s | anonymous |
+| `164.52.216.71:8080` | 3.25s | anonymous |
+| `139.59.59.122:8118` | 4.00s | anonymous |
 
 ### US (2 working proxies)
 
 | Proxy | Response Time | Anonymity |
 |-------|---------------|-----------|
-| `193.106.250.197:8080` | 3.54s | anonymous |
-| `198.204.244.178:3128` | 9.63s | elite proxy |
-
-### MX (2 working proxies)
-
-| Proxy | Response Time | Anonymity |
-|-------|---------------|-----------|
-| `38.210.179.146:999` | 9.16s | anonymous |
-| `201.116.64.226:7734` | 9.94s | elite proxy |
-
-### SG (2 working proxies)
-
-| Proxy | Response Time | Anonymity |
-|-------|---------------|-----------|
-| `152.42.167.241:3128` | 3.09s | elite proxy |
-| `159.223.52.199:3128` | 3.35s | elite proxy |
-
-### TH (2 working proxies)
-
-| Proxy | Response Time | Anonymity |
-|-------|---------------|-----------|
-| `202.28.194.139:31280` | 3.87s | elite proxy |
-| `110.49.66.210:8080` | 7.25s | elite proxy |
-
-### JP (1 working proxies)
-
-| Proxy | Response Time | Anonymity |
-|-------|---------------|-----------|
-| `45.43.60.220:8080` | 10.08s | anonymous |
-
-### RU (1 working proxies)
-
-| Proxy | Response Time | Anonymity |
-|-------|---------------|-----------|
-| `130.17.2.209:3128` | 12.66s | elite proxy |
+| `198.204.244.178:3128` | 8.69s | elite proxy |
+| `107.152.36.15:8888` | 17.45s | anonymous |
 
 ### GB (1 working proxies)
 
 | Proxy | Response Time | Anonymity |
 |-------|---------------|-----------|
-| `81.168.119.85:443` | 8.42s | elite proxy |
+| `91.231.186.236:8080` | 3.61s | anonymous |
 
-### IN (1 working proxies)
-
-| Proxy | Response Time | Anonymity |
-|-------|---------------|-----------|
-| `117.236.124.166:3128` | 2.76s | elite proxy |
-
-### CY (1 working proxies)
+### CZ (1 working proxies)
 
 | Proxy | Response Time | Anonymity |
 |-------|---------------|-----------|
-| `92.118.234.124:1080` | 8.15s | elite proxy |
+| `195.133.14.222:49152` | 2.78s | elite proxy |
 
-### BD (1 working proxies)
+### RU (1 working proxies)
 
 | Proxy | Response Time | Anonymity |
 |-------|---------------|-----------|
-| `115.127.95.82:8080` | 8.11s | anonymous |
+| `176.120.28.106:8080` | 4.44s | elite proxy |
+
+### IT (1 working proxies)
+
+| Proxy | Response Time | Anonymity |
+|-------|---------------|-----------|
+| `66.163.119.55:10006` | 7.15s | elite proxy |
+
+### ES (1 working proxies)
+
+| Proxy | Response Time | Anonymity |
+|-------|---------------|-----------|
+| `66.163.118.99:10006` | 2.34s | elite proxy |
+
+### EC (1 working proxies)
+
+| Proxy | Response Time | Anonymity |
+|-------|---------------|-----------|
+| `186.3.76.228:999` | 2.08s | transparent |
+
+### UZ (1 working proxies)
+
+| Proxy | Response Time | Anonymity |
+|-------|---------------|-----------|
+| `195.158.8.123:3128` | 7.84s | elite proxy |
+
+### PH (1 working proxies)
+
+| Proxy | Response Time | Anonymity |
+|-------|---------------|-----------|
+| `112.198.138.29:8082` | 5.72s | transparent |
+
+### GT (1 working proxies)
+
+| Proxy | Response Time | Anonymity |
+|-------|---------------|-----------|
+| `45.228.233.78:999` | 4.37s | transparent |
 
 </details>
 
@@ -123,7 +120,7 @@
 
 This README is automatically updated every 6-8 hours via GitHub Actions.
 
-Last check: **2026-08-15 07:28:50 UTC**
+Last check: **2026-08-15 14:19:53 UTC**
 
 ---
 *Generated by [Proxy Checker](https://github.com/free-proxies-checker)*
